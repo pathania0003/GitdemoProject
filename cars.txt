@@ -3,3 +3,4 @@
 3. fortunar
 4. thar
 5. verna
+6. safari
