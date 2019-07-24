@@ -4,3 +4,4 @@
 4. thar
 5. verna
 6. safari
+7. isuzu_v-cross_d_mass
